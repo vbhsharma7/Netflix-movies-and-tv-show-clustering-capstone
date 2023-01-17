@@ -50,4 +50,4 @@ Finally, K–Means clustering is utilized to form 10 distinct clusters with simi
 Using the data provided, we also implemented a simple recommender system that successfully generates Ten similar Movies or Tv-Shows for the given title.
 
 # CREDITS:
-Gaurav Malakar | Anup A. Jambulkar | Ankit Walde | Anil Bhatt | Vibhu Sharma
+Vibhu Sharma |Anup A. Jambulkar | Ankit Walde | Anil Bhatt Gaurav Malakar |
