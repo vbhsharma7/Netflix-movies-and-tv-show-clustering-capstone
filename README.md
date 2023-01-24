@@ -52,7 +52,6 @@ Finally, K–Means clustering is utilized to form 10 distinct clusters with simi
 Using the data provided, we also implemented a simple recommender system that successfully generates Ten similar Movies or Tv-Shows for the given title.
 
 # CREDITS:
-<h2 id="credits"> :scroll: Credits</h2>
 
  Vibhu Sharma | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
 
