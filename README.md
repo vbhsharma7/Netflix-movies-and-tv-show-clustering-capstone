@@ -1,5 +1,7 @@
-# Netflix-movies-and-tv-show-clustering-capstone
-![download](https://user-images.githubusercontent.com/107554669/194932702-6d729516-4398-417f-b5c7-54a29434c164.jpg)
+# Netflix movies and tv show clustering capstone
+![image](https://user-images.githubusercontent.com/107554669/214294763-325e42eb-5320-45e0-a9b7-b1a7827318b2.png)
+
+
 
 ## Objectives:
 * Conduct Exploratory Data Analysis.
@@ -50,4 +52,15 @@ Finally, K–Means clustering is utilized to form 10 distinct clusters with simi
 Using the data provided, we also implemented a simple recommender system that successfully generates Ten similar Movies or Tv-Shows for the given title.
 
 # CREDITS:
-Vibhu Sharma |Anup A. Jambulkar | Ankit Walde | Anil Bhatt| Gaurav Malakar 
+<h2 id="credits"> :scroll: Credits</h2>
+
+ Vibhu Sharma | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+
+<p> <i> Contact me for Data Science Project Collaborations</i></p>
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/almabetter/mycompany/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/AlmaBetter-School/)
+[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/almabetter)
+
+
